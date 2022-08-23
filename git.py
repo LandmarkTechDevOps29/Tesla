@@ -1,5 +1,6 @@
  #Deeploying a python web application
- echo "Hello world"
+ #echo "Hello world"
  #=shell script
- pytho('Hello world')
+ #python('Hello world')
  #=python script
+ print('Hello world')
